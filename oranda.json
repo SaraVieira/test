@@ -1,1 +1,25 @@
-{"name":"test","repository":"https://github.com/SaraVieira/test","description":"🎉 Created with CodeSandbox","homepage":"🎉 https://codesandbox.io/s/github/SaraVieira/test","changelog":false,"theme":"dark"}
+{
+  "name": "test",
+  "repository": "https://github.com/SaraVieira/test",
+  "description": "🎉 Created with CodeSandbox",
+  "homepage": "🎉 https://codesandbox.io/s/github/SaraVieira/test",
+  "changelog": false,
+  "styles": {
+    "theme": "dark"
+  },
+  "dist_dir": "public",
+  "no_header": false,
+  "analytics": {},
+  "readme_path": "README.md",
+  "additional_pages": [],
+  "static_dir": "static",
+  "theme": "dark",
+  "artifacts": {
+    "package_managers": [
+      {
+        "npm": "oranda"
+      }
+    ]
+  },
+  "path_prefix": "test"
+}
