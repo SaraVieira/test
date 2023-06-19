@@ -1,8 +1,4 @@
 {
-  "name": "test",
-  "repository": "https://github.com/SaraVieira/test",
-  "description": "🎉 Created with CodeSandbox",
-  "homepage": "🎉 https://codesandbox.io/s/github/SaraVieira/test",
   "changelog": false,
   "styles": {
     "theme": "dark"
