@@ -18,5 +18,6 @@
       }
     ]
   },
-  "path_prefix": "test"
+  "path_prefix": "test",
+  "name": "test342"
 }
