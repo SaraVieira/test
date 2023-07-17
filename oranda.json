@@ -19,8 +19,6 @@
       "theme": true
     },
     "changelog": false,
-    "funding": {
-      "yml_path": ".github/FUNDING.yml"
-    }
+    "funding": false
   }
 }
