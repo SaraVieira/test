@@ -1,0 +1,26 @@
+{
+  "project": {
+    "name": "test",
+    "repository": "https://github.com/SaraVieira/test",
+    "description": "Created with CodeSandbox",
+    "homepage": "https://codesandbox.io/s/github/SaraVieira/test",
+    "readme_path": "./README.md"
+  },
+  "build": {
+    "dist_dir": "./public/",
+    "static_dir": "./static/",
+    "path_prefix": "test"
+  },
+  "styles": {
+    "theme": "dark"
+  },
+  "components": {
+    "md_book": {
+      "theme": true
+    },
+    "changelog": false,
+    "funding": {
+      "yml_path": ".github/FUNDING.yml"
+    }
+  }
+}
